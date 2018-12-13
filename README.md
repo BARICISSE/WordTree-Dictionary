@@ -1,0 +1,3 @@
+# WordTree-Dictionary
+Implement a Tree Dictionary that store words, and have methods such as: createChild, insertWord, getPrefix, contains...
+Very good excercise on trees data structure. done in java
